@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"ec2","Source":"./ec2","Dir":"ec2"},{"Key":"","Source":"","Dir":"."},{"Key":"lambda_func","Source":"registry.terraform.io/terraform-aws-modules/lambda/aws","Version":"2.7.0","Dir":".terraform/modules/lambda_func"},{"Key":"S3","Source":"./S3","Dir":"S3"}]}
